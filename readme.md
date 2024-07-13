@@ -11,7 +11,7 @@
 ![alt text](https://github.com/trishfr/linux-mint/blob/main/image-2.png "Balena Etcher User Interface")
 5. Plug in your Flash Drive and select it as a target.
 6. Flash!
-7. After the installation media is created, restart your PC and enter the BIOS. (The key to enter BIOS is usually one of the function keys. You can search your BIOS key by entering your motherboard model or if you're using a laptop, the model of the laptop)
+7. After the installation media is created, restart your PC and enter the BIOS. (The key to enter BIOS is usually one of the function keys. You can search your BIOS key by entering your motherboard model on google or if you're using a laptop, the model of the laptop)
 8. Set the boot priority of the flash drive to the highest.
 ![alt text](https://github.com/trishfr/linux-mint/blob/main/image-3.png "BIOS Boot Menu Page, Yours may look different")
 9. Save changes and boot into Linux Mint.
